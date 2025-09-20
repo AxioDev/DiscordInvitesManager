@@ -1,0 +1,14 @@
+{
+  "delete": {
+    "usedUp": true,
+    "expired": true,
+    "temporary": true,
+    "byBots": true,
+    "noChannel": true,
+    "voiceChannel": false,
+    "zeroUses": false,
+    "permanent": false,
+    "olderThanDays": 30,
+    "maxAgeSeconds": 86400
+  }
+}
